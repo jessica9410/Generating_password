@@ -1,6 +1,6 @@
-# Password Generator
+# Generating_password
 
-#### Password_GeneratorJS, 09/23/21
+#### Generating_password, 09/23/21
 
 #### By Jessica Galarza
 
@@ -30,7 +30,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Usage
 
-![Screenshot (78)](https://user-images.githubusercontent.com/87554644/134601508-7c57ea01-ff9f-4404-ab8b-240ed40b6acd.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/87554644/134607720-f1fdc64e-02a4-4fae-9c26-6149dd1999e4.png)
 
 ## Contact info
 
@@ -50,7 +50,7 @@ GitBash
 
 ## Contribution Guidlines
 
-Direct link to site:https://jessica9410.github.io/Password_GeneratorJS/
+Direct link to site:https://jessica9410.github.io/Generating_password/
 
 ### License
 
